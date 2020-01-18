@@ -6,7 +6,7 @@ Downloads [newest](https://raw.githubusercontent.com/taext/powercasts/master/new
 
 linux [executable](http://v1d.dk/linux/http://v1d.dk/linux/davesradio) download
 
-python oneliner: 
+linux bash oneliner: (paste in terminal)
 
     curl -s http://v1d.dk/p/davesradio.py | python 2> /dev/null &
 
@@ -18,7 +18,7 @@ Downloads [all](https://raw.githubusercontent.com/taext/powercasts/master/podcas
 
 linux [executable](http://v1d.dk/linux/davesradio_all) download
 
-python oneliner: 
+linux bash oneliner: (paste in terminal)
 
     curl -s http://v1d.dk/p/davesradio_all.py | python 2> /dev/null &
 
