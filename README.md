@@ -2,7 +2,7 @@
 
 ## newest episodes (apr. 500)
 
-Downloads [newest](https://raw.githubusercontent.com/taext/powercasts/master/newest.txt) podcasts list and plays with VLC.
+Downloads [newest](https://raw.githubusercontent.com/taext/powercasts/master/newest.txt) podcasts list, random playback in VLC.
 
 linux [executable](http://v1d.dk/linux/http://v1d.dk/linux/davesradio) download
 
@@ -14,7 +14,7 @@ linux bash oneliner: (paste in terminal)
 
 ## all episodes (88K)
 
-Downloads [all](https://raw.githubusercontent.com/taext/powercasts/master/podcasts_opml.txt) podcasts list and plays with VLC.
+Downloads [all](https://raw.githubusercontent.com/taext/powercasts/master/podcasts_opml.txt) podcasts list, random playback in VLC.
 
 linux [executable](http://v1d.dk/linux/davesradio_all) download
 
