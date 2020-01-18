@@ -2,4 +2,4 @@
 
 import subprocess
 
-subprocess.Popen(["vlc","http://raw.githubusercontent.com/taext/powercasts/master/newest.txt", "--random"]).wait()
+subprocess.Popen(["vlc","http://raw.githubusercontent.com/taext/powercasts/master/newest.txt", "--random"])
