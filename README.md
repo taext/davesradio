@@ -12,7 +12,7 @@ linux bash oneliner: (paste in terminal)
 
 windows powershell oneliner: (paste in powershell)
 
-    (curl http://v1d.dk/p/davesradio.py -UseBasicParsing).Content | python
+    Start-Job {(curl http://v1d.dk/p/davesradio.py -UseBasicParsing).Content | python}
 
 <br>
 
@@ -28,7 +28,7 @@ linux bash oneliner: (paste in terminal)
 
 windows powershell oneliner: (paste in powershell)
 
-    (curl http://v1d.dk/p/davesradio_all.py -UseBasicParsing).Content | python
+    Start-Job {(curl http://v1d.dk/p/davesradio_all.py -UseBasicParsing).Content | python}
 
 <br>
 
