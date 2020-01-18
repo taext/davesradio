@@ -1,0 +1,23 @@
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+prefetch error: unimplemented query (264) in control
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+http error: local stream 1 error: Cancellation (0x8)
+gnutls error: The TLS connection was non-properly terminated.
+http error: peer stream 1 error: Cancellation (0x8)
+gnutls error: The specified session has been invalidated for some reason.
+gnutls error: The specified session has been invalidated for some reason.
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+-- logger module stopped --
+-- logger module stopped --
+﻿-- logger module started --
+main error: no suitable interface module
+main error: interface "globalhotkeys,none" initialization failed
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+http error: local stream 1 error: Cancellation (0x8)
+prefetch error: unimplemented query (264) in control
