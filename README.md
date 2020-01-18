@@ -6,7 +6,11 @@ Downloads [newest](https://raw.githubusercontent.com/taext/powercasts/master/new
 
 linux [executable](http://v1d.dk/linux/http://v1d.dk/linux/davesradio) download
 
-python oneliner: `curl -s http://v1d.dk/p/davesradio.py | python`
+python oneliner: 
+
+    curl -s http://v1d.dk/p/davesradio.py | python 2> /dev/null &
+
+<br>
 
 ## all episodes (88K)
 
@@ -14,7 +18,9 @@ Downloads [all](https://raw.githubusercontent.com/taext/powercasts/master/podcas
 
 linux [executable](http://v1d.dk/linux/davesradio_all) download
 
-python oneliner: `curl -s http://v1d.dk/p/davesradio_all.py | python`
+python oneliner: 
+
+    curl -s http://v1d.dk/p/davesradio_all.py | python 2> /dev/null &
 
 <br>
 
