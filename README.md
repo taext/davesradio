@@ -4,7 +4,7 @@
 
 Downloads [newest](https://raw.githubusercontent.com/taext/powercasts/master/newest.txt) podcasts list and plays with VLC.
 
-linux [executable](http://v1d.dk/linux/http://v1d.dk/linux/davesradio) download (needs VLC)
+linux [executable](http://v1d.dk/linux/http://v1d.dk/linux/davesradio) download
 
 python oneliner: `curl -s http://v1d.dk/p/davesradio.py | python`
 
@@ -12,7 +12,7 @@ python oneliner: `curl -s http://v1d.dk/p/davesradio.py | python`
 
 Downloads [all](https://raw.githubusercontent.com/taext/powercasts/master/podcasts_opml.txt) podcasts list and plays with VLC.
 
-linux [executable](http://v1d.dk/linux/davesradio_all) download (needs VLC)
+linux [executable](http://v1d.dk/linux/davesradio_all) download
 
 python oneliner: `curl -s http://v1d.dk/p/davesradio_all.py | python`
 
