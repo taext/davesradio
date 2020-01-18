@@ -1,11 +1,16 @@
 # davesradio
 
-### newest episodes (apr. 500)
+## newest episodes (apr. 500)
+
+Downloads [newest](https://raw.githubusercontent.com/taext/powercasts/master/newest.txt) podcasts and plays with VLC.
+
 linux [executable](http://v1d.dk/linux/http://v1d.dk/linux/davesradio) download
 
 python oneliner: `curl -s http://v1d.dk/p/davesradio.py | python`
 
-### all episodes (88K)
+## all episodes (88K)
+
+Downloads [all](https://raw.githubusercontent.com/taext/powercasts/master/podcasts_opml.txt) podcasts and plays with VLC.
 
 linux [executable](http://v1d.dk/linux/davesradio_all) download
 
