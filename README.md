@@ -8,11 +8,11 @@ Downloads updated [newest](https://raw.githubusercontent.com/taext/powercasts/ma
 
 - linux bash oneliner (paste in terminal)
 
-        curl -s http://v1d.dk/p/davesradio.py | python 2> /dev/null &
+        curl -s http://v1d.dk/p/davesradio.py | python 2> /dev/null
 
 - windows powershell oneliner (paste in powershell)
 
-        Start-Job {(curl http://v1d.dk/p/davesradio.py -UseBasicParsing).Content | python}
+        (curl http://v1d.dk/p/davesradio.py -UseBasicParsing).Content | python
 
 <br>
 
@@ -24,11 +24,11 @@ Downloads updated [all](https://raw.githubusercontent.com/taext/powercasts/maste
 
 - linux bash oneliner (paste in terminal)
 
-        curl -s http://v1d.dk/p/davesradio_all.py | python 2> /dev/null &
+        curl -s http://v1d.dk/p/davesradio_all.py | python 2> /dev/null
 
 - windows powershell oneliner (paste in powershell)
 
-        Start-Job {(curl http://v1d.dk/p/davesradio_all.py -UseBasicParsing).Content | python}
+        (curl http://v1d.dk/p/davesradio_all.py -UseBasicParsing).Content | python
 
 <br>
 
