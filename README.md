@@ -4,7 +4,7 @@
 
 Downloads updated [newest](https://raw.githubusercontent.com/taext/powercasts/master/newest.txt) podcasts list and plays randomly in VLC
 
-- linux [executable](http://v1d.dk/linux/http://v1d.dk/linux/davesradio) download
+- linux [executable](http://v1d.dk/linux/davesradio) download
 
 - linux bash oneliner (paste in terminal)
 
